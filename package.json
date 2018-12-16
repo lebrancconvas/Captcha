@@ -1,0 +1,12 @@
+{
+  "name": "captcha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "script" : {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
